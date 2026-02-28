@@ -1,0 +1,8 @@
+.idea/
+data/
+templates/data/
+*.dat
+*.jpg
+*.db
+*.csv
+__pycache__/
